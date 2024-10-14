@@ -6,10 +6,11 @@ A pomodoro app for focusing on task, build using React Native. A simple , sleek 
 
  <br/>
 
+<div>
 <div data-snack-id="@pinaaka/focus-time" data-snack-platform="ios" data-snack-preview="true" data-snack-theme="light" style="overflow:hidden;background:#fbfcfd;border:1px solid var(--color-border);border-radius:4px;height:505px;width:100%">
-
-<script async src="https://snack.expo.dev/embed.js"></script></div>
-
+</div>
+<script async src="https://snack.expo.dev/embed.js"></script>
+</div>
 
 <br/>
 
